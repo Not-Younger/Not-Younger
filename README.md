@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate programmer whose trying to grow my skills.</h3>
 
-- 🔭 I’m currently working on [Betterment](https://github.com/Not-Younger/Betterment)
-
 - 🌱 I’m currently learning **Full-stack web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Not-Younger](https://github.com/Not-Younger)
 
 - 📫 How to reach me **jonathanyoung7718@gmail.com**
 
-- 📄 Know about my experiences [https://not-younger.github.io/Personal-Website-v1/](https://not-younger.github.io/Personal-Website-v1/)
+- 📄 Know about my experiences [https://not-younger.github.io/Personal-Website-v2/](https://jonathanyoung.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
