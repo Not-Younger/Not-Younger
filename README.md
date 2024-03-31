@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jonathanyoung7718@gmail.com**
 
-- 📄 Know about my experiences [https://not-younger.github.io/Personal-Website-v2/](https://jonathanyoung.dev)
+- 📄 Know about my experiences on my [website](https://jonathanyoung.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
