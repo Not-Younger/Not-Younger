@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">I like to build things</h3>
 
-- 🌱 I’m currently learning **Full-stack web development**
+- 🌱 I’m currently learning **IOS development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Not-Younger](https://github.com/Not-Younger)
 
