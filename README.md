@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">I like to build things</h3>
+<h3 align="center">I'm a software engineer at US Bank and I like building things.</h3>
 
-- 🌱 I’m currently learning **IOS development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Not-Younger](https://github.com/Not-Younger)
 
